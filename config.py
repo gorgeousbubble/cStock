@@ -1,0 +1,10 @@
+# 默认分析配置
+DEFAULT_PERIOD = "1y"       # 数据周期
+DEFAULT_INTERVAL = "1d"    # K线间隔: 1d / 1h / 15m
+RSI_PERIOD = 14
+MACD_FAST = 12
+MACD_SLOW = 26
+MACD_SIGNAL = 9
+BB_PERIOD = 20
+BB_STD = 2
+MA_PERIODS = [5, 20, 60]
